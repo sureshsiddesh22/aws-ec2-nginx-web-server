@@ -90,5 +90,3 @@ Load Balancer + Multiple EC2 Instances
 
 Project 4
 CI/CD Pipeline Deployment
-
-## Project Screenshots
